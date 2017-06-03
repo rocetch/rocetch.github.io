@@ -7,7 +7,9 @@
 ## Wildfly
  - [WildFly 9 使用 Let’s Encrypt的憑證](https://orson.tw/2016/02/15/wildfly-9-%E4%BD%BF%E7%94%A8-lets-encrypt%E7%9A%84%E6%86%91%E8%AD%89/)
    \#wildfly \#https \#letsencrypt
-
+ - [Wildfly Mven Plugin - deploy](https://docs.jboss.org/wildfly/plugins/maven/latest/deploy-mojo.html)
+   \#wildfly \#maven \#deploy
+   
 ## Git
  - [Basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/#paragraphs-and-line-breaks)
    \#github \#markdown
